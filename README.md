@@ -1,7 +1,7 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Sanika Kole</h1>
-<h3 align="center">AI & Data Science Undergraduate | IIT Jodhpur</h3>
+<h3 align="center">Second year AI & Data Science student | IIT Jodhpur</h3>
 
 ---
 
